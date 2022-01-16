@@ -9,7 +9,7 @@ custom session backends.
 The key features are:
 
 - Simple API: use it as an easy way to set signed (and optionally
-  encrypted) cookies.
+  encrypted) cookies
 - Built-in backends to store sessions in cookies or the filesystem.
 - Flash messages: session values that last until read.
 - Convenient way to switch session persistency (aka "remember me") and set
